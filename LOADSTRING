@@ -2,7 +2,7 @@
 -- TELEY#0054 ON DISCORD
 
 -- ☯️Every Second +1 Ki in DBZ☯️
-if game.PlaceId == 1069951594 then
+if game.PlaceId == 12524383962 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TELEY999/HUB/main/EverySecond%2B1KiinDBZ"))()
 -- Fart Race💨
 elseif game.PlaceId == 11763462079 then
