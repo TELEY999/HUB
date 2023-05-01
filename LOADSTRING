@@ -7,4 +7,7 @@ if game.PlaceId == 12524383962 then
 -- Fart Race💨
 elseif game.PlaceId == 11763462079 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TELEY999/HUB/main/FartRace"))()
+-- 🥊Punch Monster Simulator🥊
+elseif game.PlaceId == 8034886758 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TELEY999/HUB/main/PunchMonsterSimulator"))()    
 end
