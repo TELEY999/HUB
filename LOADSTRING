@@ -4,6 +4,12 @@
 -- ☯️Every Second +1 Ki in DBZ☯️
 if game.PlaceId == 12524383962 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TELEY999/HUB/main/EverySecond%2B1KiinDBZ"))()
+-- Naruto But Every Second +1 Chakra    
+elseif game.PlaceId == 12995749346 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TELEY999/HUB/main/NarutoChakra"))()
+    
+    -- MISC GAMES
+    
 -- Fart Race💨
 elseif game.PlaceId == 11763462079 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TELEY999/HUB/main/FartRace"))()
